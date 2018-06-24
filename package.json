@@ -1,6 +1,6 @@
 {
-  "name": "@timkendrick/monaco-editor",
-  "version": "0.0.9",
+  "name": "dt-monaco-editor",
+  "version": "1.2.0",
   "description": "CommonJS/Webpack compatible Monaco editor",
   "main": "dist/standalone/index.js",
   "typings": "dist/standalone/index.d.ts",
@@ -18,14 +18,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/timkendrick/monaco-editor.git"
+    "url": "git+https://github.com/ascoders/dt0monaco-editor.git"
   },
-  "author": "Tim Kendrick <timkendrick@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/timkendrick/monaco-editor/issues"
+    "url": "https://github.com/ascoders/dt-monaco-editor/issues"
   },
-  "homepage": "https://github.com/timkendrick/monaco-editor",
+  "homepage": "https://github.com/ascoders/dt-monaco-editor",
   "keywords": [
     "monaco",
     "editor",
